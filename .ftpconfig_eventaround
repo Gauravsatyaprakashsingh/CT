@@ -1,0 +1,23 @@
+{
+    "protocol": "sftp",
+    "host": "139.59.86.228",
+    "port": 22,
+    "user": "root",
+    "pass": "Angel2877)$",
+    "promptForPass": false,
+    "remote": "/var/www/html/calender_app",
+    "local": "/calender_app",
+    "agent": "",
+    "privatekey": "",
+    "passphrase": "",
+    "hosthash": "",
+    "ignorehost": true,
+    "connTimeout": 10000,
+    "keepalive": 10000,
+    "keyboardInteractive": false,
+    "keyboardInteractiveForPass": false,
+    "remoteCommand": "",
+    "remoteShell": "",
+    "watch": [],
+    "watchTimeout": 500
+}

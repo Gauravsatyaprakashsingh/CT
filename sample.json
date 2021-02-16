@@ -1,0 +1,139 @@
+{
+  "BrideShortName": "Khushi",
+  "BrideName": "Khushi Singh",
+  "BrideProfile": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+  "GroomShortName": "Rahul",
+  "GroomName": "Rahul Patil",
+  "GroomProfile": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/groom.jpg",
+  "MarriageDateShort": "29.04.2016",
+  "MarriageDateLong": "29th April 2016",
+  "MarriageTime": "12.36 PM",
+  "Type": "In The Morning",
+  "AboutBride": "We seek the comfort of another. Someone to share and share the life we choose. Someone to help us through the neverending attempt to understand ourselves. And in the end, someone to comfort us along the way.",
+  "AboutGroom": "We seek the comfort of another. Someone to share and share the life we choose. Someone to help us through the neverending attempt to understand ourselves. And in the end, someone to comfort us along the way.",
+  "WeddingLocation": "Hotel Tip Top Plaza",
+  "lat": "19.1856635",
+  "long": "72.9574265",
+  "LocationAddress": "Mulund Check Naka \nLal Bahadur Shastri Marg, Thane West, Mumbai.",
+  "Settings": {
+    "HideHeart": false
+  },
+  "Family": {
+    "Bride":[
+      {
+        "relation": "Father",
+        "name": "Arjun",
+        "phone": "7303802969",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "shaikhsufiyanr@gmail.com"
+      },
+      {
+        "relation": "Mother",
+        "name": "Mom",
+        "phone": "1234",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "abc@gmail.com"
+      },
+      {
+        "relation": "Sister",
+        "name": "AAA",
+        "phone": "1234567890",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "abc@hotmail.com"
+      },
+      {
+        "relation": "Brother",
+        "name": "BBB",
+        "phone": "1234567890",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/groom.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "abc@hotmail.com"
+      }
+    ],
+
+    "Groom":[
+      {
+        "relation": "Father",
+        "name": "Groom Father",
+        "phone": "124567890",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/groom.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "abc@hotmail.com"
+      },
+      {
+        "relation": "Mother",
+        "name": "MOM",
+        "phone": "1234567890",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "abc@hotmail.com"
+      },
+      {
+        "relation": "Sister",
+        "name": "AA",
+        "phone": "1234566777",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "abc@hotmail.com"
+      },
+      {
+        "relation": "Brother",
+        "name": "BB",
+        "phone": "1234567188",
+        "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+        "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n",
+        "email": "abc@hotmail.com"
+      }
+    ]
+  },
+  "Ourstory": [
+    {
+
+      "title": "We're Complete Each Other",
+      "date": "16th September 2018",
+      "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n"
+    },
+
+    {
+      "title": "We're Complete Each Other22",
+      "date": "01th September 2018",
+      "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "details": "A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n"
+    }
+  ],
+  "Gallery": {
+    "pre_wedding": [
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg"
+    ],
+    "engagement": [
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg"
+    ],
+    "wedding": [
+      "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg"
+    ]
+  },
+  "Function": [
+    {
+      "title": "Haldi",
+      "date": "05th August 2015",
+      "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/groom.jpg",
+      "details":"A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n"
+    },
+    {
+      "title": "Mehndi",
+      "date": "05th August 2015",
+      "image": "https://www.bedsbd.org/asset/website/img/demos/wedding/bride-groom/bride.jpg",
+      "details":"A material metaphor is the unifying theory of a rationalized space and a system of motion.The material is grounded in tactile reality, inspired by the study of paper and ink, yettechnologically advanced and open to imagination and magic.\nuse of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physicalworld, without breaking the rules of physics.\n"
+    }
+  ]
+}
